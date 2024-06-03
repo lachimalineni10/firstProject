@@ -1,4 +1,4 @@
 # firstProject
 This is my first Git Repository
 <br>
-Author - Lachi
+Author - Lachi(Malineni)
